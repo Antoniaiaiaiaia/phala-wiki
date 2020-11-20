@@ -29,6 +29,7 @@ Vendetta is the third Phala Network Testnet featuring decentralized TEE mining.
 ### IV. FAQ
 
 - [Frequently Asked Questions]({{< relref "docs/poc3/4-faq" >}})
+- [Self-examination]()
 
 ### Get connected
 
