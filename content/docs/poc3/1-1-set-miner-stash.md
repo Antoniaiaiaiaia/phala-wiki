@@ -1,5 +1,5 @@
 ---
-title: "1.3 Set Miner Stash"
+title: "1.1 Set Miner Stash"
 ---
 
 ### Connecting to Testnet Vendetta
