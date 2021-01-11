@@ -24,7 +24,7 @@ First of all, we recommand to update your BIOS to the latest version.
 >If you can only find `SGX: Software Controlled` option, you will have to run [sgx-software-enable](https://github.com/intel/sgx-software-enable) in Ubuntu. You can follow the Intel's instructions, build it from source and execute it. Also, we provide a prebuilt file for Ubuntu 18.04 / 20.04 that can be found [here](https://github.com/Phala-Network/sgx-tools/releases/tag/0.1). You can download and execute it with the following commands:
 > ```bash
 > wget https://github.com/Phala-Network/sgx-tools/releases/download/0.1/sgx_enable
-> chmod +x sgx_enable
+> chmod +x sgx_enable 
 > sudo ./sgx_enable
 > ```
 5. **Use UEFI Boot**. Go to `Boot` -> `Boot Mode`, and make sure it was set to `UEFI`.
